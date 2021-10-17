@@ -66,6 +66,8 @@ We adjust the Learning Rate from 0.01 to 0.5, and observe the network training p
 |0.1|95.37|
 |0.3|77.42|
 |0.5|70.58|
+
+
 ![images](./images/lr_plot.png)
 
 ### Optimizer
